@@ -1,0 +1,17 @@
+.form-side {
+    margin: 20% 15% 0 15%;
+}
+
+#subBtn,
+#face {
+    width: 100%;
+}
+
+a {
+    color: #000;
+}
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
